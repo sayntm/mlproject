@@ -2,7 +2,16 @@ pandas
 numpy
 matplotlib
 seaborn
-
+scipy
 scikit-learn
+geopandas
+
+opencv-python
+
+catboost
+
+xgboost
+
+
 
 # -e .
